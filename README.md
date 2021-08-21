@@ -1,6 +1,6 @@
 
 
-## Hola, Mi Disha. I am an energetic, passionate, creative, flexible Second Year Student of Bachelor of Engineering currently studying Computer Science Engineering.
+## Hola, Yo soy Disha. I am an energetic, passionate, creative, flexible Second Year Student of Bachelor of Engineering currently studying Computer Science Engineering.
 
 I love learning and am quite fast at conceptualizing concepts when it's something I'm interested in.
 
