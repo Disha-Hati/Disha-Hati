@@ -1,6 +1,6 @@
 
-
-# Learner on weekdays, Blogger on weekends!
+[![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
+# Engineer on Weekdays, Student on Weekends! 🚀
 
 Hello there! I'm a Computer Science and Engineering graduate with a passion for technology and problem-solving. With a B.E degree earned in 2023, I bring a solid foundation in programming, data structures, and algorithms to the table.
 
@@ -12,10 +12,9 @@ My expertise lies in Frontend development, where I've honed my skills in HTML, C
    Currently, I'm thriving as a Consulting Technical Analyst at Clarivate, Bangalore. Here, I've delved into the realms of Data Engineering and Testing, gaining invaluable experience with SQL languages (including Postgres, MySQL, and RedShift), data warehousing, ETL/ELT processes, and data integration platforms like Apache Airflow.
 </p>
 
-<p>
-   <a href="https://github.com/Disha-Hati?tab=repositories">See My Projects</a><br>
-  <a href="https://medium.com/@disha55">Read My Blogs</a>
-</p>
+- 👨‍💻 All of my projects are available at [https://github.com/Disha-Hati?tab=repositories](https://github.com/Disha-Hati?tab=repositories)
+
+- 📫 How to reach me **dishahati55@gmail.com**
 
   <h2> 🐱‍💻Tools & Technologies I am familiar with : </h2>
 
@@ -36,22 +35,34 @@ My expertise lies in Frontend development, where I've honed my skills in HTML, C
 
    <img src="https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/> 
 
-<img src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465"/> 
-
-   
-  
-  
  
   </p>
 
+<h2>Connect with me:</h2>
+<a href="https://linkedin.com/in/disha-hati-d55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-hati-d55" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/disha-hati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="disha-hati" height="30" width="40" /></a>
+<a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a>
+
+
 
 <h2> 📈 GitHub Stats: </h2>
-<p align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Disha-Hati&&show_icons=true&title_color=fcc879&icon_color=6c5796&text_color=daf7dc&bg_color=220b3b">
+<p>
+
+[![](https://visitcount.itsvg.in/api?id=disha-hati&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Disha-Hati&theme=tokyonight)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha-hati&show_icons=true&locale=en&title_color=87ceeb&icon_color=6c5796&text_color=daf7dc&bg_color=220b3b&layout=compact" alt="disha-hati" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=disha-hati&theme=onedark&row=2&column=3)](https://github.com/disha-hati/github-profile-trophy)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha-hati&show_icons=true&locale=en&layout=compact&bg_color=220b3b&text_color=daf7dc" alt="disha-hati" />
+
+
+
 </p>
 
-  
- 
+
 
 
 
