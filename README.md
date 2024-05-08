@@ -2,19 +2,18 @@
 [![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
 # Engineer on Weekdays, Student on Weekends! 🚀
 
-Hello there! I'm a Computer Science and Engineering graduate with a passion for technology and problem-solving. With a B.E degree earned in 2023, I bring a solid foundation in programming, data structures, and algorithms to the table.
+<p>Hello World! I connect dots! </p>
 
-<p>
-My expertise lies in Frontend development, where I've honed my skills in HTML, CSS, JavaScript, React, Next.js, and Java. I do possess some knowledge on Backend Technologies as well. What sets me apart is my knack for quickly grasping complex concepts and my meticulous attention to detail, enabling me to efficiently identify and solve problems.
-</p>
+- <b>I’m currently learning:</b>  <img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/>  
 
-<p>
-   Currently, I'm thriving as a Consulting Technical Analyst at Clarivate, Bangalore. Here, I've delved into the realms of Data Engineering and Testing, gaining invaluable experience with SQL languages (including Postgres, MySQL, and RedShift), data warehousing, ETL/ELT processes, and data integration platforms like Apache Airflow.
-</p>
+- <b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Disha-Hati?tab=repositories](https://github.com/Disha-Hati?tab=repositories)
+- <b> ⚡ Fun fact :</b> I turn my dreams into the reality!
+- <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
-- 📫 How to reach me **dishahati55@gmail.com**
+- <b> 📫 How to reach me?</b>
+   - Drop an Email at: **dishahati55@gmail.com**
+  - Text me on Linkedin
 
   <h2> 🐱‍💻Tools & Technologies I am familiar with : </h2>
 
@@ -47,6 +46,7 @@ My expertise lies in Frontend development, where I've honed my skills in HTML, C
 
 <h2> 📈 GitHub Stats: </h2>
 <p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha-hati&label=Profile%20views&color=0e75b6&style=flat" alt="disha-hati" /> </p>-->
 
 [![](https://visitcount.itsvg.in/api?id=disha-hati&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
