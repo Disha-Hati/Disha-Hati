@@ -8,20 +8,27 @@
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
 </div>
 
-<p>Hello World! I connect dots! </p>
+<p><h2>Hello World! I connect dots! Because that makes a line . And a <b>Line is Infinite!!</b></h2></p>
+</br>
+</br>
 
-- <b>I’m currently learning:</b>  <img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/>  
+<p> I stay up-to-date by regularly reading and learning about new technologies on my weekends.</p>
+<b>I’m currently learning:<img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/> </b> </br>
+<b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
+</p>
 
-- <b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
+<b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
-- <b> ⚡ Fun fact :</b> I turn my dreams into the reality!
-- <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
+<b>  Fun fact :</b> I study People. I study Mind . Be aware!🧠
+
 
 - <b> 📫 How to reach me?</b>
-   - Drop an Email at: **dishahati55@gmail.com**
+    - Drop an Email at: **dishahati55@gmail.com**
   - Text me on Linkedin
 
-  <h2> 🐱‍💻Tools & Technologies I am familiar with : </h2>
+<h3>Turning my Dreams into Reality!</h3>
+</br>
+<h2>Tools & Technologies I am familiar with : </h2>
 
   <p align="center">
 
