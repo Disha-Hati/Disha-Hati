@@ -22,11 +22,11 @@
 <b>  Fun fact :</b> I study People. I study Mind . Be aware!🧠
 
 
-- <b> 📫 How to reach me?</b>
+- <b> How to reach me?  📫</b>
     - Drop an Email at: **dishahati55@gmail.com**
   - Text me on Linkedin
 
-<h3>Turning my Dreams into Reality!</h3>
+<h3>Turning my Dreams into Reality! ✨</h3>
 </br>
 <h2>Tools & Technologies I am familiar with : </h2>
 
