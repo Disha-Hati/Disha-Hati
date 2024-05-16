@@ -19,7 +19,7 @@
 
 <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
-<b>  Fun fact :</b> I study People. I study Mind . Be aware!🧠
+<b>  Fun fact :</b> I study People. I read Mind . Be aware!🧠
 
 
 - <b> How to reach me?  📫</b>
@@ -53,7 +53,9 @@
 <h2>Connect with me:</h2>
 <a href="https://linkedin.com/in/disha-hati-d55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-hati-d55" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/disha-hati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="disha-hati" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/dishahati55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/dishahati55/" height="30" width="40" /></a>
 <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a>
+
 
 
 
