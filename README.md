@@ -1,14 +1,12 @@
 
 [![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
+
 # Engineer on Weekdays, Student on Weekends! 🚀
 
 
 
-<div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-</div>
-
-<p><h2>Hello World! I connect dots! Because that makes a line . And a <b>Line is Infinite!!</b></h2></p>
+<img align="right" alt="dot connection" width="400" src="https://i.giphy.com/IW3mlwUFTI3XKaJlmt.webp"/>
+<p>Hello World! I connect dots that makes a line . And a <b>Line is Infinite!!</b></p>
 </br>
 </br>
 
@@ -26,7 +24,9 @@
     - Drop an Email at: **dishahati55@gmail.com**
   - Text me on Linkedin
 
-<h3>Turning my Dreams into Reality! ✨</h3>
+<div align="center">
+    <h3>Turning my Dreams into Reality! ✨</h3>
+</div>
 </br>
 <h2>Tools & Technologies I am familiar with : </h2>
 
@@ -76,6 +76,10 @@
 
 
 </p>
+
+<div align="center">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+</div>
 
 
 
