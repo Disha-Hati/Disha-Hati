@@ -1,12 +1,12 @@
 
 [![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
 
-# Engineer on Weekdays, Student on Weekends! 🚀
+# I connect dots that makes a line . And a Line is Infinite!!
 
 
 
 <img align="right" alt="dot connection" width="400" src="https://i.giphy.com/IW3mlwUFTI3XKaJlmt.webp"/>
-<p>Hello World! I connect dots that makes a line . And a <b>Line is Infinite!!</b></p>
+<p>Hello World! </p>
 </br>
 </br>
 
