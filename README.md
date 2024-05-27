@@ -17,12 +17,14 @@
 
 <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
+<b>I write blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> 
+
 <b>  Fun fact :</b> I study People. I read Mind . Be aware!🧠
 
 
 - <b> How to reach me?  📫</b>
-    - Drop an Email at: **dishahati55@gmail.com**
-  - Text me on Linkedin
+    - Drop an Email at: **dishahati55@gmail.com** <br/>
+     <a href="https://linkedin.com/in/disha-hati-d55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-hati-d55" height="30" width="40" /></a> Text me on Linkedin 
 
 <div align="center">
     <h3>Turning my Dreams into Reality! ✨</h3>
@@ -50,11 +52,10 @@
  
   </p>
 
-<h2>Connect with me:</h2>
-<a href="https://linkedin.com/in/disha-hati-d55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disha-hati-d55" height="30" width="40" /></a>
+<h2>I solve problems on:</h2>
 <a href="https://www.leetcode.com/disha-hati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="disha-hati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/dishahati55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/dishahati55/" height="30" width="40" /></a>
-<a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a>
+
 
 
 
