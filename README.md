@@ -17,7 +17,7 @@
 
 <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
-<b>I write blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> 
+<b>I write blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> <img alt="namaste dev" align="center" height="30" width="40" src="https://i.imgur.com/WVh8Q9q.png"/>
 
 <b>  Fun fact :</b> I study People. I read Mind . Be aware!🧠
 
