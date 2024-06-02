@@ -55,6 +55,7 @@
 <h2>I solve problems on:</h2>
 <a href="https://www.leetcode.com/disha-hati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="disha-hati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/dishahati55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/dishahati55/" height="30" width="40" /></a>
+<a href="https://takeuforward.org/profile/dishahati" target="blank"><img align="center" src="https://i.imgur.com/jslLvx0.jpeg" alt="user/dishahati55/" height="30" width="40" /></a>
 
 
 
