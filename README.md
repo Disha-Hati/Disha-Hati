@@ -1,23 +1,26 @@
 
 [![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
 
-# I connect dots that makes a line . And a Line is Infinite!!
+# I connect dots that makes a line . And a Line is Infinite!! ♾️
 
 
 
 <img align="right" alt="dot connection" width="400" src="https://i.giphy.com/IW3mlwUFTI3XKaJlmt.webp"/>
 <p>Hello World! </p>
 </br>
-</br>
 
-<p> I stay up-to-date by regularly reading and learning about new technologies on my weekends.</p>
-<b>I’m currently learning:<img src="https://camo.githubusercontent.com/2abe53f4176fd7b9639f1c316e77574575c1c99c660e03fefa08299045988ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/> </b> </br>
-<b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
+- <p> I stay up-to-date by regularly reading and learning about new technologies on my weekends.</p>
+
+- <b>I’m currently learning:<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> </b> </br>
+
+- <b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
 </p>
+
+- <b>Read my blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> <img alt="namaste dev" align="center" height="30" width="40" src="https://i.imgur.com/WVh8Q9q.png"/>
 
 <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
-<b>I write blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> <img alt="namaste dev" align="center" height="30" width="40" src="https://i.imgur.com/WVh8Q9q.png"/>
+
 
 <b>  Fun fact :</b> I study People. I read Mind . Be aware!🧠
 
