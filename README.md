@@ -72,21 +72,28 @@
 
 [![](https://visitcount.itsvg.in/api?id=disha-hati&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Disha-Hati&theme=tokyonight)](https://git.io/streak-stats)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Disha-Hati&theme=react-dark&hide_border=true&area=true)
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Disha-Hati&theme=tokyonight"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=disha-hati&show_icons=true&locale=en&title_color=87ceeb&icon_color=6c5796&text_color=daf7dc&bg_color=220b3b&layout=compact" alt="disha-hati" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=disha-hati&theme=onedark&row=2&column=3)](https://github.com/disha-hati/github-profile-trophy)
+
+<p align="center">
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Disha-Hati&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark"/>  
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha-hati&show_icons=true&locale=en&layout=compact&bg_color=220b3b&text_color=daf7dc" alt="disha-hati" />
 
+      
+</p>
 
 
 </p>
 
-<div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-</div>
 
 
 
