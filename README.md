@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)
+<!--[![MasterHead](https://i.imgur.com/cVve0WY.png)](https://disha-hati-portfolio.netlify.app/)-->
 
 # I connect dots that makes a line . And a Line is Infinite!! ♾️
 
@@ -9,6 +9,7 @@
 <p>Hello World! </p>
 </br>
 
+- <p> Software Engineer</p>
 - <p> I stay up-to-date by regularly reading and learning about new technologies on my weekends.</p>
 
 - <b>I’m currently learning:<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> </b> </br>
@@ -16,7 +17,6 @@
 - <b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
 </p>
 
-- <b>Read my blogs on:</b> <a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a> <img alt="namaste dev" align="center" height="30" width="40" src="https://i.imgur.com/WVh8Q9q.png"/>
 
 <b>  Creativity & Innovation is my Expertise! What's yours? </b> 
 
@@ -26,18 +26,15 @@
 
 
 
-- <b> How to reach me?  📫</b></br>
-      <a href="mailto:dishahati55@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-      <a href="https://linkedin.com/in/disha-hati-d55"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a></br>
-   - Drop an Email at: **dishahati55@gmail.com** 
-    - Text me on Linkedin 
      
 
 <div align="center">
     <h3>Turning my Dreams into Reality! ✨</h3>
 </div>
 </br>
-<h2>Tools & Technologies I am familiar with : </h2>
+
+<details>
+<summary><h2>Tech Stack : </h2></summary>
 
   <p align="center">
 
@@ -57,18 +54,23 @@
  
   </p>
 
-<h2>Check out my Coding Profiles:</h2>
+</details>
+<details>
+<summary><h2>Check out my Profiles:</h2></summary>
 <a href="https://www.leetcode.com/disha-hati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="disha-hati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/dishahati55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/dishahati55/" height="30" width="40" /></a>
 <a href="https://takeuforward.org/profile/dishahati" target="blank"><img align="center" src="https://i.imgur.com/jslLvx0.jpeg" alt="user/dishahati55/" height="30" width="40" /></a>
+<a href="https://medium.com/@disha55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@disha55" height="30" width="40" /></a>
+<!--<img alt="namaste dev" align="center" height="30" width="40" src="https://i.imgur.com/WVh8Q9q.png"/>-->
+</details>
 
 
 
-
-
-<h2> 📈 GitHub Stats: </h2>
+<details>
+<summary><h2> 📈 GitHub Stats: </h2></summary>
 <p>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha-hati&label=Profile%20views&color=0e75b6&style=flat" alt="disha-hati" /> </p>-->
+
 
 [![](https://visitcount.itsvg.in/api?id=disha-hati&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
@@ -92,6 +94,15 @@
 </p>
 
 
+</p>
+</details>
+</br>
+
+<p align="center">
+<b>Do you want to contact me for collaboration opportunities?</b> </br>
+      <a href="mailto:dishahati55@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+      <a href="https://linkedin.com/in/disha-hati-d55"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a></br><br>
+     
 </p>
 
 
