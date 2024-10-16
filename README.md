@@ -12,7 +12,7 @@
 - <p> Software Engineer</p>
 - <p> I stay up-to-date by regularly reading and learning about new technologies on my weekends.</p>
 
-- <b>I’m currently learning:<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> </b> </br>
+<!-- <b>I’m currently learning:<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> </b> </br>-->
 
 - <b>You can find my projects here</b> : <a href="https://github.com/Disha-Hati?tab=repositories">Projects</a>
 </p>
